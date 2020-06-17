@@ -1,5 +1,5 @@
 import requests, os
-os.chdir(r'C:\Users\zchen\Documents\SBS y1\SBS Y1S2\BS1006 Principles of Genetics\Video')
+os.chdir(r'C:\Users\zchen\Documents')
 chunksize= 256
 
 url='src="https://www.youtube.com/d8072100-a6ae-42bb-9575-4bbfa74f6a26"></video>'
